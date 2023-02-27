@@ -1,0 +1,6 @@
+[submodule "rocketmovies-frontend"]
+	path = rocketmovies-frontend
+	url = https://github.com/eduardonobrega/rocketmovies-frontend
+[submodule "rocketmovies-backend"]
+	path = rocketmovies-backend
+	url = https://github.com/eduardonobrega/rocketmovies-backend
