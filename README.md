@@ -73,4 +73,4 @@ Esse projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by [@eduardonobrega](https://www.linkedin.com/in/eduardo-nunes-nobrega/) :wave: 
